@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b197d8-8f67-41c8-8e22-672bc4637090" name="Default Changelist" comment="" />
+    <list default="true" id="77b197d8-8f67-41c8-8e22-672bc4637090" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscriptions-app" beforeDir="false" afterPath="$PROJECT_DIR$/subscriptions-app" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/subscriptions-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NUAcBIAVvnFMZVDGEhikV2eFvq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,11 +40,22 @@
       <workItem from="1681777042831" duration="599000" />
       <workItem from="1681778300167" duration="203000" />
       <workItem from="1682212496552" duration="7362000" />
-      <workItem from="1682379493853" duration="6101000" />
+      <workItem from="1682379493853" duration="6733000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
