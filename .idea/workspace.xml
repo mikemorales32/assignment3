@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b197d8-8f67-41c8-8e22-672bc4637090" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subscriptions-app" beforeDir="false" afterPath="$PROJECT_DIR$/subscriptions-app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,8 @@
       <workItem from="1681777042831" duration="599000" />
       <workItem from="1681778300167" duration="203000" />
       <workItem from="1682212496552" duration="7362000" />
-      <workItem from="1682379493853" duration="10623000" />
+      <workItem from="1682379493853" duration="10856000" />
+      <workItem from="1683001550872" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1682405250030</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682669084000</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1682669213754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682669213754</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
